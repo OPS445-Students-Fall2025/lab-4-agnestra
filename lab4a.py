@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+''' Lab4a: Sets manipulation '''
+#Author: Agnestra Mahat
+#Author ID: 128939238
+
+
 def join_sets(s1, s2):
     return (s1 | s2)
     # join_sets will return a set that contains every value from both s1 and s2
